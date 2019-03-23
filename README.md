@@ -8,7 +8,7 @@
 希望大家自由给列表进行pull request~~
 
 ## Table of Contents
-* [Foundations](#foundations)
+* [Foundations](#基础)
 * [Courses](#courses)
 * [Research Labs](#research-labs)
 * [Datasets](#datasets)
@@ -20,7 +20,7 @@
 * [Laws](#laws)
 
 
-## Foundations
+## 基础
 
 ### Artificial Intelligence
 
