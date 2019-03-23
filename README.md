@@ -1,12 +1,11 @@
 # Awesome Autonomous Vehicles: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome autonomous vehicles resources, modified from [takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
+精选无人能驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
 
-> what's more, I will keep up to date with the latest resources to make this list to be a awesome list on `Autonomous Vehicle` & `Self -driving Car` & `Intelligent Vehicle`.
+> 除此之外，将继续跟随最新资源，主要关注 `自动驾驶`、`无人驾驶`、`智能车辆`等方面。
 
+## 贡献
 
-## Contributing
-
-Please feel free to send me pull requests to add links.
+希望大家自由给列表进行pull request~~
 
 ## Table of Contents
 * [Foundations](#foundations)
