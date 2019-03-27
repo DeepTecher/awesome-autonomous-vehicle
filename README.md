@@ -30,7 +30,7 @@
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
-1. [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
+* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
 ### 计算机视觉|Computer Vision
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
@@ -59,25 +59,41 @@
     * SISL
 * 卡内基梅陇大学|Carnegie Mellon University
     * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - - 从事计算机视觉，自主导航，虚拟现实，智能操纵，空间机器人和相关领域的工作。
+    * The Robotics Institute:Navlab
 * 麻省理工学院|MIT
-    * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - 旨在进一步发展自动驾驶汽车技术，目标是减少交通伤亡，甚至可能开发无法发生事故的车辆。
+    * CSAIL
+        * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - 旨在进一步发展自动驾驶汽车技术，目标是减少交通伤亡，甚至可能开发无法发生事故的车辆。
+        * [LIS：Learning and Intelligent System]
+        * [Robust Robotics Group]
+        * [Interactive Robotics Group]
+    * LIDS
+        * [Aerospace Control Lab]
 * 波斯顿大学|Boston University
 * 伯克利|University of California, Berkeley
     * [Berkeley DeepDrive](http://bdd.berkeley.edu/)  - 研究汽车应用的计算机视觉和机器学习方面的最新技术。
+    * [InterACT]
+    * [AUTOLAB]
+    * [AUTOLAB]
 * 普林斯顿|Princeton University
     * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - 普林斯顿大学以本科生为主导的研究小组，致力于通过竞争挑战，自我引导研究和社区外展推动和推动机器人领域。
     * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html)  - 自动驾驶和街景。
 * 马里兰大学|University of Maryland
     * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/)  - 在生物启发设计和机器人领域进行研究和开发。
 * 密歇根大学|University of Michigan
+    * [MCity Driverless Shuttle research]
+    * [Michigan Robotics]
+    * [UMTRI：University of Michigan Transportation Research Institute]
 * 康内尔大学|Cornell University
 * 芝加哥大学|The University of Chicago
 * 宾夕法尼亚大学|University of Pennsylvania
+    * [GRASP]
+        * [Kumar Lab]
 
 ##### 加拿大  
+* 多伦多大学|University of Toronto
+    * Raquel Urtasun带领
 * 滑铁卢大学|University of Waterloo
     * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/)  - 研究领域包括Multirotor无人机，自动驾驶和多摄像机并行跟踪和绘图。
-* 多伦多大学|University of Toronto
   
 ##### 英国
 * 牛津大学|University of Oxford
@@ -85,9 +101,16 @@
 ##### 德国
 * 柏林大学|Freie Universität Berlin
     * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/)  - 计算机视觉，认知导航，空间汽车环境捕获。
+* 慕尼黑联邦国防大学|
 ##### 法国
+* 法国国家资讯与自动化研究所
+    * [RITS:Robotics and Intelligent Transportation Systems]
 ##### 瑞士
+* 苏黎世联邦理工学院
+    * ASL：Autonomous Systems Lab
 ##### 意大利
+* 帕尔马大学
+    * VisLab（目前已和安霸合并）
 ##### 新加坡
 * 南洋理工
 
@@ -176,14 +199,14 @@
 * NVIDIA Drive PX2自动驾驶汽车平台可视化。 [[观看](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 #### 博客
-1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
+* [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
 
 #### 知乎
 #### 微信公众号
 
 #### 推特
-1. [comma.ai](https://twitter.com/comma_ai)
+* [comma.ai](https://twitter.com/comma_ai)
 * [[Udacity] David Silver](https://twitter.com/dsilver829)
 * [[Udacity] Dhruv Parthasarathy](https://twitter.com/dhruvp)
 * [[Udacity] Eric Gonzalez](https://twitter.com/ericrgon)
@@ -196,7 +219,7 @@
 ## 法规
 
 美国
-1. [California Regulatory Notice](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)
+* [California Regulatory Notice](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)
 * [Michigan Just Passed the Most Permissive Self-Driving Car Laws in the Country](http://fortune.com/2016/12/09/michigan-self-driving-cars/)
 * [Car accidents involving a SDC in California](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/autonomousveh_ol316)
 * [Nvidia starts testing its self-driving cars on public roads](http://www.theinquirer.net/inquirer/news/2479432/nvidia-starts-testing-its-self-driving-cars-on-public-roads)
