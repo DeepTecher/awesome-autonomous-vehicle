@@ -8,9 +8,9 @@
 希望大家自由给列表进行pull request~~
 
 ## Table of Contents
-* [Foundations](#基础)
+* [基础](#基础)
 * [Courses](#courses)
-* [Research Labs](#research-labs)
+* [研究实验室](#研究实验室)
 * [Datasets](#datasets)
 * [Open Source Software](#open-source-software)
 * [Hardware](#hardware)
@@ -49,7 +49,7 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 
 
 
-## Research Labs
+## 研究实验室
 1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
 understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
 * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
