@@ -1,15 +1,15 @@
 # Awesome Autonomous Vehicles: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选无人能驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
 
-> 除此之外，将继续跟随最新资源，主要关注 `自动驾驶`、`无人驾驶`、`智能车辆`等方面。
+> 除此之外，将继续跟随最新资源，大家多多关注~~~
 
 ## 贡献
 
 希望大家自由给列表进行pull request~~
 
 ## Table of Contents
-* [基础](#基础)
-* [Courses](#courses)
+* [基础|Foundations](#基础|Foundations)
+* [课程|Courses](#课程|courses)
 * [研究实验室](#研究实验室)
 * [Datasets](#datasets)
 * [Open Source Software](#open-source-software)
@@ -20,7 +20,7 @@
 * [Laws](#laws)
 
 
-## 基础
+## 基础|Foundations
 
 ### Artificial Intelligence
 
@@ -36,7 +36,7 @@ from generic to specific areas focus on state-of-the-art for anyone starting in 
 1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
-## Courses
+## 课程|courses
 1. [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
 * [[University of Toronto] CSC2541
 Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - A graduate course in visual perception for autonomous driving. The class briefly covers topics in localization, ego-motion estimaton, free-space estimation, visual recognition (classification, detection, segmentation).>
@@ -50,9 +50,27 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 
 
 ## 研究实验室
-1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
-understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
-* [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
+### 高校
+#### 国外高校
+##### 美国
+* 斯坦福大学
+    * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
+    understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
+    * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
+    * ASL:Autonomous System lab
+    * SISL
+* 卡内基梅陇大学
+* 麻省理工学院
+* 加州大学伯克利
+* 普林斯顿
+* 马里兰大学
+* 密歇根大学
+* 康内尔大学
+* 宾夕法尼亚大学
+
+
+
+#### 国内高校
 * [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
 * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
 * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
