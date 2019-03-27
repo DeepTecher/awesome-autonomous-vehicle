@@ -8,8 +8,8 @@
 希望大家自由给列表进行pull request~~
 
 ## Table of Contents
-* [基础|Foundations](#基础|Foundations)
-* [课程|Courses](#课程|courses)
+* [基础](#基础)
+* [课程](#课程)
 * [研究实验室](#研究实验室)
 * [Datasets](#datasets)
 * [Open Source Software](#open-source-software)
@@ -20,7 +20,7 @@
 * [Laws](#laws)
 
 
-## 基础|Foundations
+## 基础
 
 ### Artificial Intelligence
 
@@ -36,7 +36,7 @@ from generic to specific areas focus on state-of-the-art for anyone starting in 
 1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
-## 课程|courses
+## 课程
 1. [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
 * [[University of Toronto] CSC2541
 Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - A graduate course in visual perception for autonomous driving. The class briefly covers topics in localization, ego-motion estimaton, free-space estimation, visual recognition (classification, detection, segmentation).>
@@ -51,36 +51,82 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 
 ## 研究实验室
 ### 高校
-#### 国外高校
+#### 国外高校（不分先后）
 ##### 美国
-* 斯坦福大学
+* 斯坦福大学|Stanford University
     * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
     understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
     * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
     * ASL:Autonomous System lab
     * SISL
-* 卡内基梅陇大学
-* 麻省理工学院
-* 加州大学伯克利
-* 普林斯顿
-* 马里兰大学
-* 密歇根大学
-* 康内尔大学
-* 宾夕法尼亚大学
+* 卡内基梅陇大学|Carnegie Mellon University
+    * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
+* 麻省理工学院|MIT
+    * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - Aimed at furthering the development of autonomous vehicle technologies, with the goal of reducing traffic casualties and potentially even developing a vehicle incapable of getting into an accident.
+* 波斯顿大学|Boston University
+* 伯克利|University of California, Berkeley
+    * [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
+* 普林斯顿|Princeton University
+    * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
+    * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
+* 马里兰大学|University of Maryland
+    * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
+* 密歇根大学|University of Michigan
+* 康内尔大学|Cornell University
+* 芝加哥大学|The University of Chicago
+* 宾夕法尼亚大学|University of Pennsylvania
+
+##### 加拿大  
+* 滑铁卢大学|University of Waterloo
+    * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
+* 多伦多大学|University of Toronto
+  
+##### 英国
+* 牛津大学|University of Oxford
+    * [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/) - Researches all aspects of land based mobile autonomy.
+##### 德国
+* 柏林大学|Freie Universität Berlin
+    * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/) - Computer Vision, Cognitive Navigation, Spatial Car Environment Capture.
+##### 法国
+##### 瑞士
+##### 意大利
+##### 新加坡
+* 南洋理工
+
+##### 韩国
+##### 日本
 
 
 
-#### 国内高校
-* [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
-* [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
-* [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
-* [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
-* [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/) - Researches all aspects of land based mobile autonomy.
-* [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/) - Computer Vision, Cognitive Navigation, Spatial Car Environment Capture.
+#### 国内高校（不分先后）
+* 清华大学
+    * Lab of Intelligent and Connected Vehicles（李克强 教授带领）
+    * iDLAB:Intelligent Driving Laboratory（成波 教授）
+* 国防科大
+    * 机电工程与自动化学院（贺汉根 教授）
+* 西交
+    * 人工智能与机器人研究所（郑南宁 院士）
+        * Visual Cognitive Computing and Intelligent Vehicle Lab（薛建儒）
+* 同济
+    * 计算机视觉与遥感研究组
+    * 同济智能汽车研究所（余卓平）
+* 北理
+    * 北理汽车研究所
+    * 北理智能车辆研究中心（龚建伟）
+* 吉大
+    * 汽车工程学院
+* 上交
+    * 智能交通与无人机应用研究中心（彭仲仁）
+* 武大
+* 华科
+* 湖南大学
+* 中科院合肥物质科学学院
+* 港科大
+    *  Areial Robotics Group(沈邵劼 )
+    * 香港科大机器人研究所
+### 研究机构
 * [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
-* [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - Aimed at furthering the development of autonomous vehicle technologies, with the goal of reducing traffic casualties and potentially even developing a vehicle incapable of getting into an accident.
-* [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
-* [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
+
 
 ## Datasets
 1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
