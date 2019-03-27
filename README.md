@@ -1,4 +1,5 @@
-# Awesome Autonomous Vehicles: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Autonomous Vehicles: 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选无人能驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
 
 > 除此之外，将继续跟随最新资源，大家多多关注~~~
@@ -11,41 +12,39 @@
 * [基础](#基础)
 * [课程](#课程)
 * [研究实验室](#研究实验室)
-* [Datasets](#datasets)
-* [Open Source Software](#open-source-software)
-* [Hardware](#hardware)
-* [Toys](#toys)
-* [Companies](#companies)
-* [Media](#media)
-* [Laws](#laws)
+* [数据集](#数据集)
+* [开源软件](#开源软件)
+* [硬件](#硬件)
+* [小游戏](#小游戏)
+* [公司](#公司)
+* [媒体](#媒体)
+* [法规](#法规)
 
 
 ## 基础
 
-### Artificial Intelligence
+### 人工智能|Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art,
-from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
-* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) - Deep Learning curriculum  meant to be a starting point for everyone interested in seriously studying the field.
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
-### Robotics
-1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) - A list of various books, courses and other resources for robotics, maintained by kiloreux.
+### 机器人学|Robotics
+1. [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
-### Computer Vision
-1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
+### 计算机视觉|Computer Vision
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
-## 课程
-1. [[Udacity] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - teaches the skills and techniques used by self-driving car teams. Program syllabus can be found [here](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9).
-* [[University of Toronto] CSC2541
-Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - A graduate course in visual perception for autonomous driving. The class briefly covers topics in localization, ego-motion estimaton, free-space estimation, visual recognition (classification, detection, segmentation).>
-* [[INRIA] Mobile Robots and Autonomous Vehicles](https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list) - Introduces the key concepts required to program mobile robots and autonomous vehicles. The course presents both formal and algorithmic tools, and for its last week's topics (behavior modeling and learning), it will also provide realistic examples and programming exercises in Python.
-* [[Universty of Glasgow] ENG5017 Autonomous Vehicle Guidance Systems](http://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017) - Introduces the concepts behind autonomous vehicle guidance and coordination and enables students to design and implement guidance strategies for vehicles incorporating planning, optimising and reacting elements.
-* [[David Silver - Udacity] How to Land An Autonomous Vehicle Job: Coursework](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.j5b2kwbso) David Silver, from Udacity, reviews his coursework for landing a job in self-driving cars coming from a Software Engineering background.
-* [[Stanford] - CS221 Artificial Intelligence: Principles and Techniques](http://stanford.edu/~cpiech/cs221/index.html) - Contains a simple self-driving project and simulator.
-* [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) -  an introduction to the practice of deep learning through the applied theme of building a self-driving car.
-* [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
+## 课程|Course
+* [[优达学成] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - 教学自动驾驶团队使用的技能和技巧。 可以在[这里](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9)找到课程大纲 .
+* [[多伦多大学] CSC2541 Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - 自动驾驶视觉感知研究生课程。 本课程简要介绍了定位，自我运动估计，自由空间估计，视觉识别（分类，检测，分割）等主题。
+* [[INRIA] Mobile Robots and Autonomous Vehicles](https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list) - 介绍了对移动机器人和自动驾驶汽车进行编程所需的关键概念。 该课程提供了算法工具，并针对其上周的主题（行为建模和学习），它还将提供Python中的实际示例和编程练习。
+* [[格拉斯哥大学] ENG5017 Autonomous Vehicle Guidance Systems](http://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017)  - 介绍自动驾驶仪指导和协调背后的概念，使学生能够设计和实施规划、优化和反应的车辆的指导策略。
+* [[David Silver - 优达学城] How to Land An Autonomous Vehicle Job: Coursework](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.j5b2kwbso) - 来自Udacity的David Silver回顾了他在软件工程背景下从事自动驾驶汽车工作的课程。
+* [[斯坦福] - CS221 Artificial Intelligence: Principles and Techniques](http://stanford.edu/~cpiech/cs221/index.html)  - 包含一个简单的自动驾驶项目以及模拟器。
+* [[MIT] 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)  - 通过构建自动驾驶汽车的应用主题介绍深度学习的实践。
+* [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html)  - 关于研究生水平的自动化科学课程。 这是一个实践性的，以项目为中心的课程，侧重于自动驾驶车辆和高级自动化。 问题：**为Duckietown（小鸭城）设计自动机器人出租车系统。**
 
 
 
@@ -54,23 +53,22 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 #### 国外高校（不分先后）
 ##### 美国
 * 斯坦福大学|Stanford University
-    * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
-    understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
-    * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
+    * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - 目前的研究领域侧重于以人为中心的流动性主题，例如了解人们如何与日益自动化的车辆互动，车辆自动化从政策到伦理到法律的社会影响，传感，决策和控制方面的技术进步。
+    * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/)  - 该中心的主题是**以人为本的人工智能，用于未来的智能车辆及其他。**
     * ASL:Autonomous System lab
     * SISL
 * 卡内基梅陇大学|Carnegie Mellon University
-    * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - working in the areas of computer vision, autonomous navigation, virtual reality, intelligent manipulation, space robotics, and related fields.
+    * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - - 从事计算机视觉，自主导航，虚拟现实，智能操纵，空间机器人和相关领域的工作。
 * 麻省理工学院|MIT
-    * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - Aimed at furthering the development of autonomous vehicle technologies, with the goal of reducing traffic casualties and potentially even developing a vehicle incapable of getting into an accident.
+    * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - 旨在进一步发展自动驾驶汽车技术，目标是减少交通伤亡，甚至可能开发无法发生事故的车辆。
 * 波斯顿大学|Boston University
 * 伯克利|University of California, Berkeley
-    * [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
+    * [Berkeley DeepDrive](http://bdd.berkeley.edu/)  - 研究汽车应用的计算机视觉和机器学习方面的最新技术。
 * 普林斯顿|Princeton University
-    * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
-    * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html) - Autonomous Driving and StreetView.
+    * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - 普林斯顿大学以本科生为主导的研究小组，致力于通过竞争挑战，自我引导研究和社区外展推动和推动机器人领域。
+    * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html)  - 自动驾驶和街景。
 * 马里兰大学|University of Maryland
-    * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
+    * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/)  - 在生物启发设计和机器人领域进行研究和开发。
 * 密歇根大学|University of Michigan
 * 康内尔大学|Cornell University
 * 芝加哥大学|The University of Chicago
@@ -78,15 +76,15 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 
 ##### 加拿大  
 * 滑铁卢大学|University of Waterloo
-    * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
+    * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/)  - 研究领域包括Multirotor无人机，自动驾驶和多摄像机并行跟踪和绘图。
 * 多伦多大学|University of Toronto
   
 ##### 英国
 * 牛津大学|University of Oxford
-    * [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/) - Researches all aspects of land based mobile autonomy.
+    * [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/)  - 研究基于陆地的移动自动化的各个方面。
 ##### 德国
 * 柏林大学|Freie Universität Berlin
-    * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/) - Computer Vision, Cognitive Navigation, Spatial Car Environment Capture.
+    * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/)  - 计算机视觉，认知导航，空间汽车环境捕获。
 ##### 法国
 ##### 瑞士
 ##### 意大利
@@ -129,63 +127,62 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 
 
 ## Datasets
-1. [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - Udacity driving datasets released for [Udacity Challenges](https://www.udacity.com/self-driving-car). Contains ROSBAG training data. (~80 GB).
-* [Comma.ai](https://archive.org/details/comma-dataset) - 7 and a quarter hours of largely highway driving. Consists of 10 videos clips of variable size recorded at 20 Hz with a camera mounted on the windshield of an Acura ILX 2016. In parallel to the videos, also recorded some measurements such as car's speed, acceleration, steering angle, GPS coordinates, gyroscope angles. These measurements are transformed into a uniform 100 Hz time base.
-* [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/) - over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. The dataset captures many different combinations of weather, traffic and pedestrians, along with longer term changes such as construction and roadworks.
-* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 6 hours of traffic scenarios at 10-100 Hz using a variety of sensor modalities such as highresolution
-color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-precision GPS/IMU inertial navigation system.
-* [University of Michigan North Campus Long-Term Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/) -  consists of omnidirectional imagery, 3D lidar, planar lidar, GPS, and proprioceptive
-sensors for odometry collected using a Segway robot.
-* [University of Michigan Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford) - dataset collected by an autonomous ground vehicle testbed, based upon a modified Ford F-250 pickup truck. The vehicle is outfitted with a professional (Applanix POS LV) and consumer (Xsens MTI-G) Inertial Measuring Unit (IMU), a Velodyne 3D-lidar scanner, two push-broom forward looking Riegl lidars, and a Point Grey Ladybug3 omnidirectional camera system.
-* [DIPLECS Autonomous Driving Datasets (2015)](http://cvssp.org/data/diplecs/) - dataset was recorded by placing a HD camera in a car driving around the Surrey countryside. The dataset contains about 30 minutes of driving. The video is 1920x1080 in colour, encoded using H.264 codec. Steering is estimated by tracking markers on the steering wheel. The car's speed is estimated from OCR the car's speedometer (but the accuracy of the method is not guaranteed).
-* [Velodyne SLAM Dataset from Karlsruhe Institute of Technology](http://www.mrt.kit.edu/z/publ/download/velodyneslam/dataset.html) -  two challenging datasets recorded with the Velodyne HDL64E-S2 scanner in the city of Karlsruhe, Germany.
-* [SYNTHetic collection of Imagery and Annotations (SYNTHIA)](http://synthia-dataset.net/) - consists of a collection of photo-realistic frames rendered from a virtual city and comes with precise pixel-level semantic annotations for 13 classes: misc, sky, building, road, sidewalk, fence, vegetation, pole, car, sign, pedestrian, cyclist, lanemarking.
-* [Cityscape Dataset](https://www.cityscapes-dataset.com/) - focuses on semantic understanding of urban street scenes.  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames. The dataset is thus an order of magnitude larger than similar previous attempts. Details on annotated classes and examples of our annotations are available.
-* [CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset) - Several real-world stereo datasets exist for the development and testing of algorithms in the fields of perception and navigation of autonomous vehicles. However, none of them was recorded in developing countries and therefore they lack the particular characteristics that can be found in their streets and roads, like abundant potholes, speed bumpers and peculiar flows of pedestrians. This stereo dataset was recorded from a moving vehicle and contains high resolution stereo images which are complemented with orientation and acceleration data obtained from an IMU, GPS data, and data from the car computer.
-* [Daimler Urban Segmetation Dataset](http://www.6d-vision.com/scene-labeling) - consists of video sequences recorded in urban traffic. The dataset consists of 5000 rectified stereo image pairs with a resolution of 1024x440. 500 frames (every 10th frame of the sequence) come with pixel-level semantic class annotations into 5 classes: ground, building, vehicle, pedestrian, sky. Dense disparity maps are provided as a reference, however these are not manually annotated but computed using semi-global matching (sgm).
-* [Self Racing Cars - XSens/Fairchild Dataset](http://data.selfracingcars.com/) - The files include measurements from the Fairchild FIS1100 6 Degree of Freedom (DoF) IMU, the Fairchild FMT-1030 AHRS, the Xsens MTi-3 AHRS, and the Xsens MTi-G-710 GNSS/INS. The files from the event can all be read in the MT Manager software, available as part of the MT Software Suite, available here.
-* [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/) - a small sample of the 1,000+ hours of multi-sensor driving datasets collected at AgeLab.
-* [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/) -  a list of frequently used computer vision datasets.
-* [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
-* [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
-* [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
+* [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - 为[Udacity Challenges]（https://www.udacity.com/self-driving-car）发布的Udacity数据集。 包含ROSBAG训练数据。 （大约80 GB）。
+* [Comma.ai](https://archive.org/details/comma-dataset) - 7.25小时的高速公路驾驶。 包含10个可变大小的视频片段，以20 Hz的频率录制，相机安装在Acura ILX 2016的挡风玻璃上。与视频平行，还记录了一些测量值，如汽车的速度、加速度、转向角、GPS坐标，陀螺仪角度。 这些测量结果转换为均匀的100 Hz时基。
+* [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/) - 超过100次重复对英国牛津的路线进行一年多采集拍摄。 该数据集捕获了许多不同的天气，交通和行人组合，以及建筑和道路工程等长期变化。
+* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 数据集为使用各种传感器模式，例如高分辨率彩色和灰度立体相机，Velodyne 3D激光扫描仪和高精度GPS/IMU惯性导航系统，在10-100 Hz下进行6小时拍摄的交通场景。
+* [University of Michigan North Campus Long-Term Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/) -  包括全方位图像，3D激光雷达，平面激光雷达，GPS和本体感应传感器，用于使用Segway机器人收集的测距。
+* [University of Michigan Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford)  - 基于改进的福特F-250皮卡车的自动地面车辆测试台收集的数据集。 该车配备了专业（Applanix POS LV）和消费者（Xsens MTI-G）惯性测量单元（IMU），Velodyne 3D激光雷达扫描仪，两个推扫式前视Riegl激光雷达和Point Grey Ladybug3全方位摄像头 系统。
+* [DIPLECS Autonomous Driving Datasets (2015)](http://cvssp.org/data/diplecs/)  - 通过在Surrey乡村周围驾驶的汽车中放置高清摄像头来记录数据集。 该数据集包含大约30分钟的驾驶时间。 视频为1920x1080，采用H.264编解码器编码。 通过跟踪方向盘上的标记来估计转向。 汽车的速度是从汽车的速度表OCR估算的（但不保证方法的准确性）。
+* [Velodyne SLAM Dataset from Karlsruhe Institute of Technology](http://www.mrt.kit.edu/z/publ/download/velodyneslam/dataset.html)  - 在德国卡尔斯鲁厄市使用Velodyne HDL64E-S2扫描仪记录的两个具有挑战性的数据集。
+* [SYNTHetic collection of Imagery and Annotations (SYNTHIA)](http://synthia-dataset.net/)  - 包括从虚拟城市渲染的照片般逼真的帧集合，并为13个类别提供精确的像素级语义注释：misc，天空，建筑，道路，人行道，围栏，植被，杆，汽车，标志，行人， 骑自行车的人，车道标记。
+* [Cityscape Dataset](https://www.cityscapes-dataset.com/)  - 专注于对城市街景的语义理解。 大型数据集，包含从50个不同城市的街景中记录的各种立体视频序列，高质量的像素级注释为5000帧，另外还有一组较大的20000个弱注释帧。 因此，数据集比先前的类似尝试大一个数量级。 可以使用带注释的类的详细信息和注释示例。
+* [CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset)  - 包括若干真实世界的立体数据集，用于在自动驾驶车辆的感知和导航领域中开发和测试算法。 然而，它们都没有记录在发展中国家，因此它们缺乏在街道和道路上可以找到的特殊特征，如丰富的坑洼，减速器和特殊的行人流。 该立体数据集是从移动的车辆记录的，并且包含高分辨率立体图像，其补充有从IMU，GPS数据和来自汽车计算机的数据获得的定向和加速度数据。
+* [Daimler Urban Segmetation Dataset](http://www.6d-vision.com/scene-labeling)  - 包括城市交通中记录的视频序列。 该数据集由5000个经过校正的立体图像对组成，分辨率为1024x440。 500帧（序列的每10帧）带有5个类的像素级语义类注释：地面，建筑，车辆，行人，天空。 提供密集视差图作为参考，但是这些不是手动注释的，而是使用半全局匹配（sgm）计算的。
+* [Self Racing Cars - XSens/Fairchild Dataset](http://data.selfracingcars.com/)  - 文件包括来自Fairchild FIS1100 6自由度（DoF）IMU，Fairchild FMT-1030 AHRS，Xsens MTi-3 AHRS和Xsens MTi-G-710 GNSS / INS的测量结果。 事件中的文件都可以在MT Manager软件中读取，该软件可作为MT软件套件的一部分提供，可在此处获得。
+* [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)  -  由AgeLab收集的1,000多小时多传感器驾驶数据集的一小部分样本。
+* [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/)  - 常用计算机视觉数据集列表。
+* [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)  - 具有10000多个交通标志注释的大型数据集，数千个物理上不同的交通标志。 用8个高分辨率摄像头录制的4个视频序列安装在一辆面包车上，总计超过3个小时，带有交通标志注释，摄像机校准和姿势。 大约16000张背景图片。 这些材料通过GeoAutomation在比利时，佛兰德斯地区的城市环境中捕获。
+* [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)  - 交通标志，车辆检测，交通灯，轨迹模式。
+* [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) - 它是在美国科罗拉多州的一年内使用全向立体相机录制的。[论文](https://arxiv.org/abs/1704.05215)
 
-## Open Source Software
-1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
-* [Comma.ai Openpilot](https://github.com/commaai/openpilot) - an open source driving agent.
-* [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/) - Software Infrastructure for Stanford's Autonomous Vehicles.
-* [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1) - development environment ready for Udacity Self Driving Car (SDC) Challenges.
-* [The OSCC Project](http://oscc.io/) - A by-wire control kit for autonomous vehicle development.
-
-## Hardware
+## 开源软件
+* [Autoware](https://github.com/CPFL/Autoware)  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot](https://github.com/commaai/openpilot)  - 开源驱动代理。
+* [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)  - 斯坦福自动驾驶汽车的软件基础设施。
+* [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1)  - 为Udacity无人驾驶车（SDC）挑战做好准备的开发环境。
+* [The OSCC Project](http://oscc.io/)  - 用于自动驾驶汽车开发的线控控制套件。
+## 硬件
 
 
-## Toys
-1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
-2. [NeuroJS](https://github.com/janhuenermann/neurojs) - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
+## 小游戏
+* [TensorKart](https://github.com/kevinhughes27/TensorKart)  - 使用TensorFlow搭建的自驾驾驶MarioKart。
+* [NeuroJS](https://github.com/janhuenermann/neurojs)  - javascript深度学习和强化学习库。 一个样本自动驾驶汽车实施。
 
-## Companies
+## 公司
 
-1. [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
+* [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
 
-## Media
-Different media sources where we can find self-driving car related topics, ideas, and much more.
+## 媒体
+媒体来源，可以找到自动驾驶相关的主题、想法等等。
 
 #### Youtube
-1. The Three Pillars of Autonomous Driving. [[watch](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
-* What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
-* Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
-* Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
-* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
-* NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
-* NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
+* 视频：自动驾驶的三大支柱。 [[观看](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
+* 视频：什么是自动驾驶感应？ [[观看](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
+* Amnon Shashua CVPR 2016主题演讲：自动驾驶，计算机视觉和机器学习。 [[观看](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
+* Chris Urmson: 无人驾驶车如何看到这条路。 [[观看](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
+* 深入强化学习驾驶政策。 [[观看](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
+* 2016年国际消费电子展上的NVIDIA  - 自动驾驶车和深度学习GPU。[[观看](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
+* NVIDIA Drive PX2自动驾驶汽车平台可视化。 [[观看](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
-#### Blogs
+#### 博客
 1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
 
-#### Twitter
+#### 知乎
+#### 微信公众号
 
+#### 推特
 1. [comma.ai](https://twitter.com/comma_ai)
 * [[Udacity] David Silver](https://twitter.com/dsilver829)
 * [[Udacity] Dhruv Parthasarathy](https://twitter.com/dhruvp)
@@ -196,10 +193,9 @@ Different media sources where we can find self-driving car related topics, ideas
 * [[Google] Chris Urmson](https://twitter.com/chris_urmson)
 
 
-## Laws
+## 法规
 
-United States
-
+美国
 1. [California Regulatory Notice](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/testing)
 * [Michigan Just Passed the Most Permissive Self-Driving Car Laws in the Country](http://fortune.com/2016/12/09/michigan-self-driving-cars/)
 * [Car accidents involving a SDC in California](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/autonomousveh_ol316)
