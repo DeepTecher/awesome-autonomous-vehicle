@@ -149,8 +149,10 @@
 * [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
 
 
-## Datasets
-* [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - 为[Udacity Challenges]（https://www.udacity.com/self-driving-car）发布的Udacity数据集。 包含ROSBAG训练数据。 （大约80 GB）。
+## 数据集
+* [nuScenes](https://www.nuscenes.org/) - 安波福于2019年3月公开了其数据集，并在[GitHub](https://github.com/nutonomy/nuscenes-devkit)公开教程。数据集拥有从波士顿和新加坡收集的1000个“场景”的信息，包含每个城市环境中都有的最复杂的一些驾驶场景。该数据集由140万张图像、39万次激光雷达扫描和140万个3D人工注释边界框组成，是迄今为止公布的最大的多模态3D AV数据集。
+* [ApolloCar3D] - 该数据集包含5,277个驾驶图像和超过60K的汽车实例，其中每辆汽车都配备了具有绝对模型尺寸和语义标记关键点的行业级3D CAD模型。该数据集比PASCAL3D +和KITTI（现有技术水平）大20倍以上。
+* [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) - 为[Udacity Challenges](https://www.udacity.com/self-driving-car)发布的Udacity数据集。 包含ROSBAG训练数据。 （大约80 GB）。
 * [Comma.ai](https://archive.org/details/comma-dataset) - 7.25小时的高速公路驾驶。 包含10个可变大小的视频片段，以20 Hz的频率录制，相机安装在Acura ILX 2016的挡风玻璃上。与视频平行，还记录了一些测量值，如汽车的速度、加速度、转向角、GPS坐标，陀螺仪角度。 这些测量结果转换为均匀的100 Hz时基。
 * [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/) - 超过100次重复对英国牛津的路线进行一年多采集拍摄。 该数据集捕获了许多不同的天气，交通和行人组合，以及建筑和道路工程等长期变化。
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 数据集为使用各种传感器模式，例如高分辨率彩色和灰度立体相机，Velodyne 3D激光扫描仪和高精度GPS/IMU惯性导航系统，在10-100 Hz下进行6小时拍摄的交通场景。
