@@ -183,6 +183,8 @@
 ## 小游戏
 * [TensorKart](https://github.com/kevinhughes27/TensorKart)  - 使用TensorFlow搭建的自驾驾驶MarioKart。
 * [NeuroJS](https://github.com/janhuenermann/neurojs)  - javascript深度学习和强化学习库。 一个样本自动驾驶汽车实施。
+* [Metacar](https://github.com/thibo73800/metacar) - 仅需通过浏览器就可以进行训练，为自动驾驶汽车提供强化学习环境。
+* [DeepTraffic](https://github.com/lexfridman/deeptraffic) - 作为MIT深度学习课程的一部分, 作为认知深度强化学习小游戏。仅需通过浏览器设置参数就可以进行训练和评估。
 
 ## 公司
 
