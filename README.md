@@ -36,8 +36,8 @@
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
-## 课程|Course
-* [[优达学成] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - 教学自动驾驶团队使用的技能和技巧。 可以在[这里](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9)找到课程大纲 .
+## 课程
+* [[优达学城] Self-Driving Car Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - 教学自动驾驶团队使用的技能和技巧。 可以在[这里](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.bfgw9uxd9)找到课程大纲 .
 * [[多伦多大学] CSC2541 Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html) - 自动驾驶视觉感知研究生课程。 本课程简要介绍了定位，自我运动估计，自由空间估计，视觉识别（分类，检测，分割）等主题。
 * [[INRIA] Mobile Robots and Autonomous Vehicles](https://www.fun-mooc.fr/courses/inria/41005S02/session02/about?utm_source=mooc-list) - 介绍了对移动机器人和自动驾驶汽车进行编程所需的关键概念。 该课程提供了算法工具，并针对其上周的主题（行为建模和学习），它还将提供Python中的实际示例和编程练习。
 * [[格拉斯哥大学] ENG5017 Autonomous Vehicle Guidance Systems](http://www.gla.ac.uk/coursecatalogue/course/?code=ENG5017)  - 介绍自动驾驶仪指导和协调背后的概念，使学生能够设计和实施规划、优化和反应的车辆的指导策略。
@@ -55,45 +55,57 @@
 * 斯坦福大学|Stanford University
     * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) - 目前的研究领域侧重于以人为中心的流动性主题，例如了解人们如何与日益自动化的车辆互动，车辆自动化从政策到伦理到法律的社会影响，传感，决策和控制方面的技术进步。
     * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/)  - 该中心的主题是**以人为本的人工智能，用于未来的智能车辆及其他。**
-    * ASL:Autonomous System lab
-    * SISL
+    * [ASL:Autonomous System lab](http://asl.stanford.edu/) - 设计和控制的方法，特别强调大型机器人网络和自主航空航天器。 该实验室结合了控制理论、机器人技术、优化和运筹学方面的专业知识，为在不确定、快速变化和潜在对抗环境中运行的网络化自治系统开发理论基础。
+    * [SISL:Stanford Intelligent System Laboratory](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) - 斯坦福人工智能实验室 主要关注于稳健决策系统的先进算法和分析方法。在无人驾驶的最新研究在[这里](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/research/),
+    侧重于建模、感知和规划。
 * 卡内基梅陇大学|Carnegie Mellon University
-    * [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262) - - 从事计算机视觉，自主导航，虚拟现实，智能操纵，空间机器人和相关领域的工作。
-    * The Robotics Institute:Navlab
+    * [CMU The Robotic Institute](https://www.ri.cmu.edu/) - - 从事计算机视觉，自主导航，虚拟现实，智能操纵，空间机器人和相关领域的工作。
+        * [The Carnegie Mellon University Navigation Laboratory](https://www.cs.cmu.edu/afs/cs/project/alv/www/) - CMU Navlab小组主要研究自动驾驶和辅助驾驶控制的车辆。
 * 麻省理工学院|MIT
-    * CSAIL
+    * [CSAIL:Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/) - MIT 计算机科学和人工智能实验室开创了计算领域的研究。
         * [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/) - 旨在进一步发展自动驾驶汽车技术，目标是减少交通伤亡，甚至可能开发无法发生事故的车辆。
-        * [LIS：Learning and Intelligent System]
-        * [Robust Robotics Group]
-        * [Interactive Robotics Group]
-    * LIDS
-        * [Aerospace Control Lab]
+        * [LIS：Learning and Intelligent System](http://lis.csail.mit.edu/new/) -  研究汇集了来自运动和任务规划，机器学习，强化学习和计算机视觉的想法，以综合能够在各种问题领域中智能地运行的机器人系统。
+        * [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) - 在决策理论规划，统计推断和人工智能方面的算法优化。 特别关注具有不确定模型的领域中的规划和控制问题，使用优化，统计估计和机器学习来从经验中学习良好的计划和策略。
+        * [Interactive Robotics Group](https://interactive.mit.edu/) - 设计机器智能来增强人的能力
+    * [LIDS:Laboratory for Information & Decision Systems](https://lids.mit.edu/) - 研究中心，致力于推进分析信息和决策科学的研究和教育，特别是：系统和控制通信、网络推理和统计数据处理。
+        * [ACL:Aerospace Control Lab](https://lids.mit.edu/labs-and-groups/aerospace-controls-laboratory-acl) - 不确定性下的决策; 路径规划，活动和任务分配; 估计和导航; 传感器网络设计; 鲁棒控制，自适应控制和模型预测控制。
 * 波斯顿大学|Boston University
 * 伯克利|University of California, Berkeley
     * [Berkeley DeepDrive](http://bdd.berkeley.edu/)  - 研究汽车应用的计算机视觉和机器学习方面的最新技术。
-    * [InterACT]
-    * [AUTOLAB]
-    * [AUTOLAB]
+    * [MSC:Mechanical Systems Control Laboratory](https://msc.berkeley.edu/) - 无人驾驶相关上，专注于提出新颖的方法和建立相应的设施，以解决全堆栈自动驾驶中最具挑战性的实际问题。 我们将传统控制，规划和状态估计方法（最优/鲁棒控制，优化，图搜索，贝叶斯过滤等）与最先进的机器学习方法（强化学习，深度神经网络，概率图形模型， 等）结合。
+    * [MPC Lab Research](https://automatedcars.space/)  - 过去十年，MPC lab一直专注于先进的汽车安全系统,开发一种新的科学网络物理系统科学，其目标是获得一个可证明安全的以人为中心的自治权。
+    * [BAIR:Berkeley AI Research Lab](https://bair.berkeley.edu/) - 致力于研究 计算机视觉、机器学习、NLP、规划和机器人学。
+        * [InterACT](http://interact.berkeley.edu/) - 人机交互、机器人 控制、规划、评估、学习以及认知科学
+    * [AUTOLAB](http://autolab.berkeley.edu/) - 机器人和自动化方面
+    
 * 普林斯顿|Princeton University
     * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - 普林斯顿大学以本科生为主导的研究小组，致力于通过竞争挑战，自我引导研究和社区外展推动和推动机器人领域。
     * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html)  - 自动驾驶和街景。
 * 马里兰大学|University of Maryland
     * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/)  - 在生物启发设计和机器人领域进行研究和开发。
+* 德克萨斯州大学奥斯汀分校|UTEXAS
+    * [MSL: Mobility Systems Laboratory](https://sites.utexas.edu/msl/) - 拥有广泛的研究活动，涵盖领域包括动力系统的控制，建模，估算，优化和诊断，特别是发动机，动力总成，后处理，混合动力，灵活燃料，替代/可再生能源，能量存储，（电动）地面车辆，自动驾驶汽车，智能交通，智能和可持续的移动性，以人为中心的自动化，网络物理和机电一体化系统
 * 密歇根大学|University of Michigan
-    * [MCity Driverless Shuttle research]
-    * [Michigan Robotics]
+    * [Michigan Robotics](https://robotics.umich.edu/) - 密歇根机器人研究所，研究方向有：人工智能、无人驾驶/网联车、机器人深度学习、人机交互、腿部运动和外骨骼、远程操作、运动规划、感知和计算机视觉等。
+    * [MCity Driverless Shuttle research](https://mcity.umich.edu/shuttle/)  - LiDAR、GPS、摄像头、WiFi的电动11座巴士解决方案
     * [UMTRI：University of Michigan Transportation Research Institute]
 * 康内尔大学|Cornell University
 * 芝加哥大学|The University of Chicago
+* 加州大学圣地亚哥分校| University of California, San Diego
+    * [LISA:Laboratory for Intelligent & Safe Automobiles](http://cvrr.ucsd.edu/) - LISA旨在探索创新方法，使未来的汽车更安全，更“智能”。 我们的研究考虑了与驾驶员，乘员，车辆动力学和车辆环境以及交通基础设施相关的参数的传感，分析，建模和预测问题。团队拥有广泛的理论和实验研究议程。 我们的实验室中有几个独特而强大的试验台，包括车辆，实时机器视觉系统，多模式接口和驾驶模拟器。
 * 宾夕法尼亚大学|University of Pennsylvania
     * [GRASP]
         * [Kumar Lab]
 
 ##### 加拿大  
 * 多伦多大学|University of Toronto
-    * Raquel Urtasun带领
+    * [Raquel Urtasun带领 Uber ATG](http://www.cs.utoronto.ca/~urtasun/) - 由Uber ATG首席科学家兼Uber ATG 多伦多负责人带领的Raquel Urtasun，研究领域包括：自动驾驶汽车，计算机视觉，机器学习，遥感和机器人。
+    * [Dynamic Systems Lab](http://www.dynsyslab.org/vision-news/) - 计划在未来三年内设计，开发和测试自动驾驶汽车。该团队将会提出无人驾驶汽车的新的解决方案，例如本地化和地图，姿势估计，车道和道路保持以及障碍物检测和跟踪。
 * 滑铁卢大学|University of Waterloo
+    * [WatCAR:The Waterloo Centre for Automotive Research](https://uwaterloo.ca/centre-automotive-research/) - 致力于汽车和运输系统的合作研究，通过促进汽车行业和滑铁卢大学教授研究人员之间的关系。
+    * [CogDrive: Cognitive Autonomous Driving Lab](https://uwaterloo.ca/scholar/dongpu) - 主要研究方向包括驾驶员行为与认知，人车协同，认知自动驾驶等。
     * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/)  - 研究领域包括Multirotor无人机，自动驾驶和多摄像机并行跟踪和绘图。
+    * [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/) - 机电一体化车辆系统实验室的任务是应对这些挑战以及与各种控制系统相关的其他挑战，例如牵引力控制，车辆稳定性控制和受控悬架将有助于开发能够生产下一代电动车辆系统的技术。满足对车辆动态性能，主动安全性和环境可持续性的高要求。
   
 ##### 英国
 * 牛津大学|University of Oxford
