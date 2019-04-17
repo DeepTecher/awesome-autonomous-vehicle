@@ -69,15 +69,16 @@
         * [Interactive Robotics Group](https://interactive.mit.edu/) - 设计机器智能来增强人的能力
     * [LIDS:Laboratory for Information & Decision Systems](https://lids.mit.edu/) - 研究中心，致力于推进分析信息和决策科学的研究和教育，特别是：系统和控制通信、网络推理和统计数据处理。
         * [ACL:Aerospace Control Lab](https://lids.mit.edu/labs-and-groups/aerospace-controls-laboratory-acl) - 不确定性下的决策; 路径规划，活动和任务分配; 估计和导航; 传感器网络设计; 鲁棒控制，自适应控制和模型预测控制。
-* 波斯顿大学|Boston University
+* 波斯顿大学|Boston University [TODO]
+    * [Center for Information & System Engineering](https://www.bu.edu/systems/) - 
+    * [BU ROBOTICS LAB](http://sites.bu.edu/robotics/) -
 * 伯克利|University of California, Berkeley
     * [Berkeley DeepDrive](http://bdd.berkeley.edu/)  - 研究汽车应用的计算机视觉和机器学习方面的最新技术。
     * [MSC:Mechanical Systems Control Laboratory](https://msc.berkeley.edu/) - 无人驾驶相关上，专注于提出新颖的方法和建立相应的设施，以解决全堆栈自动驾驶中最具挑战性的实际问题。 我们将传统控制，规划和状态估计方法（最优/鲁棒控制，优化，图搜索，贝叶斯过滤等）与最先进的机器学习方法（强化学习，深度神经网络，概率图形模型， 等）结合。
     * [MPC Lab Research](https://automatedcars.space/)  - 过去十年，MPC lab一直专注于先进的汽车安全系统,开发一种新的科学网络物理系统科学，其目标是获得一个可证明安全的以人为中心的自治权。
     * [BAIR:Berkeley AI Research Lab](https://bair.berkeley.edu/) - 致力于研究 计算机视觉、机器学习、NLP、规划和机器人学。
         * [InterACT](http://interact.berkeley.edu/) - 人机交互、机器人 控制、规划、评估、学习以及认知科学
-    * [AUTOLAB](http://autolab.berkeley.edu/) - 机器人和自动化方面
-    
+    * [AUTOLAB](http://autolab.berkeley.edu/) - 机器人和自动化方面   
 * 普林斯顿|Princeton University
     * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - 普林斯顿大学以本科生为主导的研究小组，致力于通过竞争挑战，自我引导研究和社区外展推动和推动机器人领域。
     * [Princeton Vision & Robotics](http://vision.princeton.edu/research.html)  - 自动驾驶和街景。
@@ -88,15 +89,17 @@
 * 密歇根大学|University of Michigan
     * [Michigan Robotics](https://robotics.umich.edu/) - 密歇根机器人研究所，研究方向有：人工智能、无人驾驶/网联车、机器人深度学习、人机交互、腿部运动和外骨骼、远程操作、运动规划、感知和计算机视觉等。
     * [MCity Driverless Shuttle research](https://mcity.umich.edu/shuttle/)  - LiDAR、GPS、摄像头、WiFi的电动11座巴士解决方案
-    * [UMTRI：University of Michigan Transportation Research Institute]
+    * [UMTRI：University of Michigan Transportation Research Institute](http://www.umtri.umich.edu/) - 安全和可持续的交通,可持续移动系统，运输数据融合和分析以及重型货物的高效运输的前沿
 * 康内尔大学|Cornell University
-* 芝加哥大学|The University of Chicago
+    * [Robotics at Cornell](https://www.engineering.cornell.edu/robotics) - 感知，控制，学习，规划和人机交互。 各种机器人:如空中机器人，家庭和办公室助理机器人，自动驾驶汽车，人形机器人，进化机器人，腿式机器人，蛇形机器人等。
+    * [ASL:Autonomous System Lab](http://cornell-asl.org/main/index.html) - 注于算法和硬件实现，支持自动/半自动机器人系统的一般领域中的各种应用。研究的主题包括感知、估计、控制、高层决策和人机交互。
+    * [Cornell Research-Autonomous Driving](https://research.cornell.edu/research/autonomous-driving)实现固有鲁棒性的方式设计算法，使自动驾驶汽车能够测量和响应动态场景，并从人类驾驶员那样的场景中学习。将算法集成到康奈尔的自动驾驶汽车软件框架中，并在一系列实验场景中验证组件和系统，
 * 加州大学圣地亚哥分校| University of California, San Diego
     * [LISA:Laboratory for Intelligent & Safe Automobiles](http://cvrr.ucsd.edu/) - LISA旨在探索创新方法，使未来的汽车更安全，更“智能”。 我们的研究考虑了与驾驶员，乘员，车辆动力学和车辆环境以及交通基础设施相关的参数的传感，分析，建模和预测问题。团队拥有广泛的理论和实验研究议程。 我们的实验室中有几个独特而强大的试验台，包括车辆，实时机器视觉系统，多模式接口和驾驶模拟器。
 * 宾夕法尼亚大学|University of Pennsylvania
-    * [GRASP]
-        * [Kumar Lab]
-
+    * [GRASP:general robotics, automation, sensing & perception laboratory](https://www.grasp.upenn.edu/) - 通用机器人、自动化、感知和控制实验室。侧重无人机和四肢机器人。
+* 其他
+    * [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - 从事多个感官模块的开发和集成以及这些组件的协调，同时完成稳定运动规划，决策制定，避障和控制（测试）等任务。
 ##### 加拿大  
 * 多伦多大学|University of Toronto
     * [Raquel Urtasun带领 Uber ATG](http://www.cs.utoronto.ca/~urtasun/) - 由Uber ATG首席科学家兼Uber ATG 多伦多负责人带领的Raquel Urtasun，研究领域包括：自动驾驶汽车，计算机视觉，机器学习，遥感和机器人。
@@ -106,31 +109,30 @@
     * [CogDrive: Cognitive Autonomous Driving Lab](https://uwaterloo.ca/scholar/dongpu) - 主要研究方向包括驾驶员行为与认知，人车协同，认知自动驾驶等。
     * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/)  - 研究领域包括Multirotor无人机，自动驾驶和多摄像机并行跟踪和绘图。
     * [Mechatronic Vehicle Systems Lab](https://uwaterloo.ca/mechatronic-vehicle-systems-lab/) - 机电一体化车辆系统实验室的任务是应对这些挑战以及与各种控制系统相关的其他挑战，例如牵引力控制，车辆稳定性控制和受控悬架将有助于开发能够生产下一代电动车辆系统的技术。满足对车辆动态性能，主动安全性和环境可持续性的高要求。
-  
 ##### 英国
 * 牛津大学|University of Oxford
     * [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/)  - 研究基于陆地的移动自动化的各个方面。
 ##### 德国
 * 柏林大学|Freie Universität Berlin
     * [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/)  - 计算机视觉，认知导航，空间汽车环境捕获。
-* 慕尼黑联邦国防大学|
+* 慕尼黑联邦国防大学|Bundeswehr University Munich
 ##### 法国
 * 法国国家资讯与自动化研究所
-    * [RITS:Robotics and Intelligent Transportation Systems]
+    * [RITS:Robotics and Intelligent Transportation Systems](https://team.inria.fr/rits/) - 致力于智能交通系统的机器人技术。 我们特别寻求将数学工具和技术相结合，以设计用于自主和可持续移动的先进智能机器人系统。
 ##### 瑞士
-* 苏黎世联邦理工学院
-    * ASL：Autonomous Systems Lab
+* 苏黎世联邦理工学院| ETH Zurich
+    * [IRIS - Institute of Robotics and Intelligent Systems](http://www.iris.ethz.ch/) - 由八个独立的实验室组成，实验室从生物医学纳米设备到康复系统和自主飞行器等领域进行研究。
+        * [ASL：Autonomous Systems Lab](http://www.asl.ethz.ch/) - 机电设计和控制系统，可以自主适应不同的情况，并应对我们不确定和动态的日常环境。 我们对新型机器人概念着迷，这些概念最适合在地面，空中和水中作用。 感知，抽象，绘图和路径规划的新方法和工具。
+    * [Robotics and Perception Group](http://rpg.ifi.uzh.ch/) - 隶属于ETH的神经信息学研究所，侧重感知：使用车载摄像头进行自行导航。主要是无人机，当然也包括一些micro地面机器人。
 ##### 意大利
-* 帕尔马大学
-    * VisLab（目前已和安霸合并）
+* 帕尔马大学|University of Parma
+    * [VisLab（目前已和安霸合并）](https://vislab.it/) - 机器视觉，模式识别，低级图像处理，机器学习，人工智能，机器人和真实等许多学科进行研究。实验室的主要重点是将基础和高级研究应用于智能交通系统和智能车辆。
 ##### 新加坡
-* 南洋理工
-
+* 南洋理工| NTU
+    * [Intelligent Robot Lab](http://robotlab.csie.ntu.edu.tw/) - 智慧家庭节能与健康照护、智慧型机器人、电脑视觉用于驾驶辅助、人机互动与虚拟实境、演化式计算与应用
+    * [HESL:Hardware & Embedded Systems Lab](http://scse.ntu.edu.sg/Research/HESL/Pages/Home.aspx) - 隶属NTU计算机科学和工程学院，无人驾驶相关的研究领域为：嵌入式视觉（无人驾驶场景理解、视频监控）
 ##### 韩国
 ##### 日本
-
-
-
 #### 国内高校（不分先后）
 * 清华大学
     * Lab of Intelligent and Connected Vehicles（李克强 教授带领）
@@ -139,7 +141,7 @@
     * 机电工程与自动化学院（贺汉根 教授）
 * 西交
     * 人工智能与机器人研究所（郑南宁 院士）
-        * Visual Cognitive Computing and Intelligent Vehicle Lab（薛建儒）
+        * Visual Cognitive Computing and Intelligent Vehicle Lab（薛建儒 教授）
 * 同济
     * 计算机视觉与遥感研究组
     * 同济智能汽车研究所（余卓平）
@@ -155,11 +157,10 @@
 * 湖南大学
 * 中科院合肥物质科学学院
 * 港科大
-    *  Areial Robotics Group(沈邵劼 )
     * 香港科大机器人研究所
-### 研究机构
-* [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2) - engaged in development and integration of multiple sensory modules and the coordination of these components while fulfilling tasks such as stable motion planning,  decision making, obstacle avoidance, and control (test).​
-
+        * [Areial Robotics Group](http://uav.ust.hk/) -状态估计，绘图，轨迹规划，多机器人协调以及使用低成本传感和计算组件的测试平台开发。
+* 港中文
+    * [天石机器人研究所](http://translate.itsc.cuhk.edu.hk/uniTS/ri.cuhk.edu.hk/research?type=) -无人驾驶相关的是：工业的自动拖拉机研究
 
 ## 数据集
 * [nuScenes](https://www.nuscenes.org/) - 安波福于2019年3月公开了其数据集，并在[GitHub](https://github.com/nutonomy/nuscenes-devkit)公开教程。数据集拥有从波士顿和新加坡收集的1000个“场景”的信息，包含每个城市环境中都有的最复杂的一些驾驶场景。该数据集由140万张图像、39万次激光雷达扫描和140万个3D人工注释边界框组成，是迄今为止公布的最大的多模态3D AV数据集。
