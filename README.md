@@ -13,7 +13,7 @@
 * [课程](#课程)
 * [研究实验室](#研究实验室)
 * [数据集](#数据集)
-* [开源软件](#开源软件)
+* [软件](#软件)
 * [硬件](#硬件)
 * [小游戏](#小游戏)
 * [公司](#公司)
@@ -103,7 +103,7 @@
 ##### 加拿大  
 * 多伦多大学|University of Toronto
     * [Raquel Urtasun带领 Uber ATG](http://www.cs.utoronto.ca/~urtasun/) - 由Uber ATG首席科学家兼Uber ATG 多伦多负责人带领的Raquel Urtasun，研究领域包括：自动驾驶汽车，计算机视觉，机器学习，遥感和机器人。
-    * [Dynamic Systems Lab](http://www.dynsyslab.org/vision-news/) - 计划在未来三年内设计，开发和测试自动驾驶汽车。该团队将会提出无人驾驶汽车的新的解决方案，例如本地化和地图，姿势估计，车道和道路保持以及障碍物检测和跟踪。
+    * [Dynamic Systems Lab](http://www.dynsyslab.org/vision-news/) - 机器人控制和学习算法；多机器人协作系统
 * 滑铁卢大学|University of Waterloo
     * [WatCAR:The Waterloo Centre for Automotive Research](https://uwaterloo.ca/centre-automotive-research/) - 致力于汽车和运输系统的合作研究，通过促进汽车行业和滑铁卢大学教授研究人员之间的关系。
     * [CogDrive: Cognitive Autonomous Driving Lab](https://uwaterloo.ca/scholar/dongpu) - 主要研究方向包括驾驶员行为与认知，人车协同，认知自动驾驶等。
@@ -154,6 +154,8 @@
     * 智能交通与无人机应用研究中心（彭仲仁）
 * 武大
 * 华科
+* 南理工
+    * PCAlab
 * 湖南大学
 * 中科院合肥物质科学学院
 * 港科大
@@ -191,12 +193,30 @@
 * [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) - 它是在美国科罗拉多州的一年内使用全向立体相机录制的。[论文](https://arxiv.org/abs/1704.05215)
 * [DeepTesla](https://selfdrivingcars.mit.edu/deeptesla/) - 主要包括tesla在两种不同驾驶模式（human driving和autopilot）下的前置相机录制的视频和车辆的转向控制信号。数据可以从这里下载:[百度云](https://pan.baidu.com/s/1c2J2IFA#list/path=%2F)。可以参考此[GitHub](https://github.com/CJHMPower/deep-tesla)
 
-## 开源软件
-* [Autoware](https://github.com/CPFL/Autoware)  - 用于城市自动驾驶的集成开源软件。
-* [Comma.ai Openpilot](https://github.com/commaai/openpilot)  - 开源驱动代理。
-* [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)  - 斯坦福自动驾驶汽车的软件基础设施。
+## 软件
+### 仿真平台
+* [英伟达 Drive Constellation](https://www.nvidia.cn/self-driving-cars/drive-constellation/) - 采用逼真的模拟技术，以更安全、更易扩展、
+更经济有效的方式推动自动驾驶汽车上路行驶的进程。它利用两台不同服务器的计算能力来提供革命性的云计算平台，从而实现数十亿英里的自动驾驶汽车测试。 
+* [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) -用于纳米课程学习
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla)  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
+* [LG LGSVL|开源](https://github.com/lgsvl/simulator) - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+
+### 软件
+* [Autoware|开源](https://github.com/CPFL/Autoware)  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot)  - 开源驱动代理。
+
+### 可视化工具
+* [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz)处理数据
+和 [streetscape.gl](https://github.com/uber/streetscape.gl)进行场景渲染。
+* [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
+
+### 其他
+* [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)  - 斯坦福自动驾驶汽车的较早时候软件基础设施。
 * [GTA Robotics SDC Environment](https://github.com/OSSDC/self-driving-car-1)  - 为Udacity无人驾驶车（SDC）挑战做好准备的开发环境。
 * [The OSCC Project](http://oscc.io/)  - 用于自动驾驶汽车开发的线控控制套件。
+
 ## 硬件
 
 
@@ -209,6 +229,10 @@
 ## 公司
 
 * [33 Corporations Working On Autonomous Vehicles](https://www.cbinsights.com/blog/autonomous-driverless-vehicles-corporations-list/)
+* [Waymo]
+* [通用Cruise]
+* [Tesla]
+* [百度]
 
 ## 媒体
 媒体来源，可以找到自动驾驶相关的主题、想法等等。
