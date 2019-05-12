@@ -13,6 +13,8 @@
 * [课程](#课程)
 * [研究实验室](#研究实验室)
 * [数据集](#数据集)
+* [期刊](#期刊)
+* [SOTA代码](#SOTA代码)
 * [软件](#软件)
 * [硬件](#硬件)
 * [小游戏](#小游戏)
@@ -193,6 +195,40 @@
 * [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) - 它是在美国科罗拉多州的一年内使用全向立体相机录制的。[论文](https://arxiv.org/abs/1704.05215)
 * [DeepTesla](https://selfdrivingcars.mit.edu/deeptesla/) - 主要包括tesla在两种不同驾驶模式（human driving和autopilot）下的前置相机录制的视频和车辆的转向控制信号。数据可以从这里下载:[百度云](https://pan.baidu.com/s/1c2J2IFA#list/path=%2F)。可以参考此[GitHub](https://github.com/CJHMPower/deep-tesla)
 
+## 期刊
+[TODO]
+
+## SOTA代码
+### 物体检测|Object Detection  
+* `Stereo R-CNN` [HKUST-Aerial-Robotics/Stereo-RCNN](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN)  - `CVPR2019`   
+研究机构 : 港科大Aerial Robotics Group和大疆  
+论文 : [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/1902.09738)
+* `SimpleDet`[tusimple/simpledet](https://github.com/tusimple/simpledet) - `SOTA on consumer grade hardware at large scale`   
+研究机构 : 图森  
+论文 : [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/abs/1903.05831)      
+* `PointPillars` [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) -`SOTA for Birds Eye View Object Detection on KITTI Cyclists Moderate`   
+研究机构:nuTonomy（安波福下的公司）  
+论文:[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784),
+* `PointRCNN`[sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) -
+`KITTI for 3D Object Detection (Cars)` : #2,Cars-Easy(AP:84.32%); #1,Cars-Moderate(AP:75.42%); #1,Cars-Hard(AP:67.86%)   
+研究机构:香港中文大学  
+论文:[PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)
+* [sshkhr/BigDataCup18_Submission](https://github.com/sshkhr/BigDataCup18_Submission) -
+IEEE International Conference On Big Data Cup 2018(2018年IEEE国际大数据杯会议的道路损伤检测和分类挑战),  
+论文:[Road Damage Detection And Classification In Smartphone Captured Images Using Mask R-CNN](https://arxiv.org/abs/1811.04535)
+* `Complex-YOLO`[AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) -
+研究机构：法里奥、伊尔默瑙理工大学  
+论文:[Complex-YOLO: Real-time 3D Object Detection on Point Clouds](https://arxiv.org/abs/1803.06199)
+* [kujason/avod](https://github.com/kujason/avod) -
+`KITTI 3D Object Detection for cars`#2 Cars-Hard(AP:66.38%)   
+研究机构：滑铁卢大学工程学院机械与机电工程系   
+论文:[Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/abs/1712.02294)  
+* `PointNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet)- 
+`SOTA（Object Localization & 3D Object Detection）` :Cars、Cyclists、Pedestrian   
+研究机构：斯坦福大学、Nuro公司、加州大学圣地亚哥分校     
+论文:[Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
+
+
 ## 软件
 ### 仿真平台
 * [英伟达 Drive Constellation](https://www.nvidia.cn/self-driving-cars/drive-constellation/) - 采用逼真的模拟技术，以更安全、更易扩展、
@@ -251,7 +287,26 @@
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
 
 #### 知乎
+##### 用户
+* 黄浴
+* 陈光
+##### 专栏
 #### 微信公众号
+##### 资讯类
+* [盖世汽车每日速递]
+* [SAE International]
+* [智车科技]
+* [智驾未来]
+* [车智]
+* [车东西]
+* [新智驾]
+* [建约车评]
+* [第一电动汽车网]
+##### 技术与资料类
+* [泡泡机器人SLAM]
+* [同济智能汽车研究所]
+* [强化学习与自动驾驶]
+* [燃云汽车]
 
 #### 推特
 * [comma.ai](https://twitter.com/comma_ai)
