@@ -230,7 +230,7 @@
 论文 : [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)
 * [sshkhr/BigDataCup18_Submission](https://github.com/sshkhr/BigDataCup18_Submission) -
 IEEE International Conference On Big Data Cup 2018(2018年IEEE国际大数据杯会议的道路损伤检测和分类挑战),   
-研究机构 :   
+研究机构 :  印度科学研究所   
 论文 : [Road Damage Detection And Classification In Smartphone Captured Images Using Mask R-CNN](https://arxiv.org/abs/1811.04535)
 * `Complex-YOLO`[AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) -  
 研究机构 : 法里奥、伊尔默瑙理工大学  
@@ -258,7 +258,7 @@ Real-Time Semantic Segmentation on Cityscapes #9,Semantic Segmentation(Mean IoU:
 研究机构 : 萨格勒布大学 电气工程与计算学院   
 论文 : [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/abs/1903.08469) 
 * [YangZhang4065/AdaptationSeg](https://github.com/YangZhang4065/AdaptationSeg) - SOTA for `Image-to-Image Translation` on SYNTHIA-to-Cityscapes  
-研究机构 :   
+研究机构 :  IEEE Member  
 论文 : [A Curriculum Domain Adaptation Approach to the Semantic Segmentation of Urban Scenes](https://arxiv.org/abs/1812.09953)
 * `BiSeNet`[ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) -
 Cityscapes：#2，Real-time（`Frame:65.5 Fps`）;#8 (`Mean IoU 78.9%`)、CamVid：#2，Mean IoU 68.7%;ECCV 2018  
@@ -293,7 +293,7 @@ Benchmarking Framework（Cityscapes dataset for urban scenes）
 研究机构 : 英伟达  
 论文 : [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)  
 ### 运动规划|Motion Planer
-* [非官方][aidriver/ChauffeurNet](https://github.com/aidriver/ChauffeurNet) -  Waymo出品，通过模仿学习对无人车进行运动规划，全文中文翻译:[知乎|每周一篇 & 无人驾驶](https://zhuanlan.zhihu.com/p/57275593)  
+* [非官方][Iftimie/ChauffeurNet](https://github.com/Iftimie/ChauffeurNet) -  Waymo出品，通过模仿学习对无人车进行运动规划，全文中文翻译:[知乎|每周一篇 & 无人驾驶](https://zhuanlan.zhihu.com/p/57275593)  
 研究机构 : Waymo Research  
 论文 : [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079),
 
