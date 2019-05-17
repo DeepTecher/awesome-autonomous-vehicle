@@ -1,8 +1,8 @@
 # Awesome Autonomous Vehicles: 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-精选无人能驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
+精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) :fire:. 
 
-> 除此之外，将继续跟随最新资源，大家多多关注~~~
+> 除此之外，将继续跟随最新资源
 
 ## 贡献
 
