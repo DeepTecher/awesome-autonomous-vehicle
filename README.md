@@ -307,6 +307,7 @@ Benchmarking Framework（Cityscapes dataset for urban scenes）
 * [微软 Airsim|开源](https://github.com/Microsoft/AirSim) - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [BARK](https://github.com/bark-simulator/bark) - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
 
 ### 软件
 * [Autoware|开源](https://github.com/CPFL/Autoware)  - 用于城市自动驾驶的集成开源软件。
